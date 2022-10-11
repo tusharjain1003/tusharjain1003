@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Tushar Jain
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-I am a Computer Science and Engineering undergraduate student at Birla Institute of Technology & Science, Pilani, pursuing a Bachelor of Engineering in my final year.
+I am a Computer Science senior at BITS Pilani, India.
 
 Skills: C++ / Java / Python
 
