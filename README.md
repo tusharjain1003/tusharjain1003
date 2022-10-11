@@ -3,8 +3,6 @@
 
 I am a Computer Science senior at BITS Pilani, India.
 
-Skills: C++ / Java / Python
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Golang 
 - 👯 I’m looking to collaborate on new projects 
