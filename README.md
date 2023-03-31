@@ -2,12 +2,15 @@ Hi 👋 I am Tushar Jain
 ============================
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-
-* 🤝  I'm open to collaborating on web3 projects.
-* ⚡  I'm a recipient of the prestigious NTSE and KVPY Scholarships awarded by the Govt. of India.
+* I am a Computer Science senior at Birla Institute of Technology & Science (BITS) Pilani, India.
+* I have previously worked at Amazon as a Software Development Engineer Intern.
+* I have keen interest in Blockchain Development and Decentralized Finance.
+* 🤝  I am open to collaborating on Web3 projects.
 * 🖥️  See my portfolio at [tusharjain.vercel.app](http://tusharjain.vercel.app/)
 * ✉️  You can contact me at [tusharjainn1@gmail.com](mailto:tusharjainn1@gmail.com)
-### Skills
+* ⚡  I am a recipient of the prestigious NTSE and KVPY Scholarships awarded by the Govt. of India.
+
+### My Tech Stack
 
 
 <p align="left">
