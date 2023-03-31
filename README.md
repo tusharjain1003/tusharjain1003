@@ -8,7 +8,7 @@ Hi 👋 I am Tushar Jain
 * 🤝  I am open to collaborating on Web3 projects.
 * 🖥️  See my portfolio at [tusharjain.vercel.app](http://tusharjain.vercel.app/)
 * ✉️  You can contact me at [tusharjainn1@gmail.com](mailto:tusharjainn1@gmail.com)
-* ⚡  I secured Rank 97 in ACM ICPC Asia Regional Contest, Kanpur-Mathura Site and Global Rank 63 in Round 1A of CodeChef Snackdown in 2021.
+* ⚡  I secured Rank 97 in the ACM ICPC Asia Regional Contest, Kanpur-Mathura Site, and Global Rank 63 in Round 1A of CodeChef Snackdown in 2021.
 
 ### My Tech Stack
 
