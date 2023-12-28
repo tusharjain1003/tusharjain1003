@@ -2,10 +2,8 @@ Hi 👋 I am Tushar Jain
 ============================
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-* I have previously worked at Amazon as a Software Development Engineer Intern.
+* I have previously worked at Amazon as a Software Developer.
 * I studied Computer Science at Birla Institute of Technology & Science (BITS) Pilani, a tier-1 engineering college in India.
-* I have a keen interest in Blockchain Development and Decentralized Finance.
-* 🤝  I am open to collaborating on Web3 projects.
 * 🖥️  See my portfolio at [tusharjain.vercel.app](http://tusharjain.vercel.app/)
 * ✉️  You can contact me at [tusharjainn1@gmail.com](mailto:tusharjainn1@gmail.com)
 * ⚡  I secured Rank 97 in the ACM ICPC Asia Regional Contest, Kanpur-Mathura Site, and Global Rank 63 in Round 1A of CodeChef Snackdown in 2021.
